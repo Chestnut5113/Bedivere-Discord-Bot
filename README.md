@@ -22,7 +22,8 @@ Discord 技術支援：Chestnut_5113#1838 <br/>
 ├── libsodium-wrappers@0.7.11<br/>
 ├── node-fetch-commonjs@3.2.4<br/>
 ├── node-fetch@3.3.0<br/>
-└── openai@3.1.0<br/>
+├── openai@3.1.0<br/>
+└── ytdl-core@4.11.2<br/>
 
 指令資料夾：[commands](https://github.com/Chestnut5113/Bedivere-Discord-Bot/tree/main/commands) <br/>
 事務所Discord: https://discord.gg/2twNMQCxSr <br/> 
